@@ -39,14 +39,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![WhatsApp Image 2024-11-29 at 01 00 02_07cc3f72](https://github.com/user-attachments/assets/3c0524a9-58c1-40e7-99b9-26622b1c9723)
+![WhatsApp Image 2024-11-29 at 01 00 03_d92c75e2](https://github.com/user-attachments/assets/968e375b-bae8-4514-878e-556f69eeb160)
+![WhatsApp Image 2024-11-29 at 01 00 03_276cce57](https://github.com/user-attachments/assets/c873238d-acce-424f-9688-ed2623cfdb23)
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Magesh.S
+### Register Number:24900241
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
